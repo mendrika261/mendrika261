@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://github.com/mendrika261/mendrika261/blob/0295249c0c8a2b47f4cb089603dcd376bae18971/image.png" width="100"/>
 
   <div id="badges">
@@ -19,9 +19,19 @@
     </a>
   </div>
 
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=mendrika261&color=red&style=flat" alt="Number of view"/>
 </div>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+
+  <img src="https://komarev.com/ghpvc/?username=mendrika261&color=red&style=flat" alt="Number of view"/>
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=dracula&hide_border=false#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=tokyonight&hide_border=false#gh-dark-mode-only)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=adluin#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=tokyolight&hide_border=false#gh-light-mode-only)
+
+</div>
+
+<br>
 
 <div>
   <div align="left">
@@ -60,11 +70,6 @@
 <br>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=dracula&hide_border=false#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=tokyonight&hide_border=false#gh-dark-mode-only)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=adluin#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=tokyolight&hide_border=false#gh-light-mode-only)
-
   <h3>🏆 GitHub Trophies</h3>
 
 [![](https://github-profile-trophy.vercel.app/?username=mendrika261&theme=dracula&no-frame=false&no-bg=false&margin-w=4#gh-dark-mode-only)](https://github-profile-trophy.vercel.app/?username=mendrika261&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4#gh-dark-mode-only)
