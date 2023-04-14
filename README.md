@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://github.com/mendrika261/mendrika261/blob/0295249c0c8a2b47f4cb089603dcd376bae18971/image.png" width="100"/>
 
-  <div id="badges">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=40&lines=Hi+%F0%9F%98%80!+I'm+Mendrika+from+Madagascar;Licence+2+degree+computer+science+student+%F0%9F%8E%93;Feel+free+to+explore+my+projects+%F0%9F%A7%AD;Reach+out+for+any+collaborations+%F0%9F%91%A5.+" alt="Typing SVG" /></a>
+  
+  <div>
     <a href="https://m.me/ramialison.mendrika">
       <img src="https://img.shields.io/badge/Messenger-006AFF?logo=messenger&logoColor=white" alt="CodinGame Badge"/>
     </a>
@@ -18,7 +20,7 @@
       <img src="https://img.shields.io/badge/CodinGame-ffd200?logo=codingame&logoColor=black" alt="CodinGame Badge"/>
     </a>
   </div>
-
+  
 </div>
 
 <div align="center">
@@ -30,8 +32,6 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=adluin#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=tokyolight&hide_border=false#gh-light-mode-only)
 
 </div>
-
-<br>
 
 <div>
   <div align="left">
