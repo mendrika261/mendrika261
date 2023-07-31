@@ -36,7 +36,6 @@
 <div>
   <div align="left">
     <h3>:gear: Frameworks and  Libraries</h3>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" title="Angular" alt="Angular" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
