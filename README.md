@@ -10,9 +10,6 @@
     <a href="https://www.linkedin.com/in/mendrika-ramialison/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://stackoverflow.com/users/20838884/mendrika261">
-      <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
-    </a>
     <a href="https://www.kaggle.com/mendrikaramialison">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
