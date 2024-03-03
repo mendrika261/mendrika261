@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Google skills boost-f29900?logo=google&logoColor=white" alt="Google Badge"/>
     </a>
   </div>
-  
+
 </div>
 
 <div align="center">
