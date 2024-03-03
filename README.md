@@ -5,16 +5,13 @@
   
   <div>
     <a href="https://m.me/ramialison.mendrika">
-      <img src="https://img.shields.io/badge/Messenger-006AFF?logo=messenger&logoColor=white" alt="CodinGame Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/mendrika-ramialison/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.kaggle.com/mendrikaramialison">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+      <img src="https://img.shields.io/badge/Messenger-006AFF?logo=messenger&logoColor=white" alt="Messenger Badge"/>
     </a>
     <a href="https://www.codingame.com/profile/e450782bf1927d09b7dc86c74b01ceff9245684">
       <img src="https://img.shields.io/badge/CodinGame-ffd200?logo=codingame&logoColor=black" alt="CodinGame Badge"/>
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/52780f02-ac61-4265-857d-b1322fbc5884">
+      <img src="https://img.shields.io/badge/Google skills boost-f29900?logo=google&logoColor=white" alt="Google Badge"/>
     </a>
   </div>
   
