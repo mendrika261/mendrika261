@@ -1,71 +1,111 @@
 <div align="center">
   <img src="https://github.com/mendrika261/mendrika261/blob/0295249c0c8a2b47f4cb089603dcd376bae18971/image.png" width="150"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=40&lines=Hi+%F0%9F%98%80!+I'm+Mendrika;Reach+out+for+any+collaborations+%F0%9F%91%A5.+)](https://git.io/typing-svg)
-  
-  <div>
-    <a href="https://m.me/ramialison.mendrika">
-      <img src="https://img.shields.io/badge/Messenger-006AFF?logo=messenger&logoColor=white" alt="Messenger Badge"/>
-    </a>
-    <a href="https://www.codingame.com/profile/e450782bf1927d09b7dc86c74b01ceff9245684">
-      <img src="https://img.shields.io/badge/CodinGame-ffd200?logo=codingame&logoColor=black" alt="CodinGame Badge"/>
-    </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/52780f02-ac61-4265-857d-b1322fbc5884">
-      <img src="https://img.shields.io/badge/Google skills boost-f29900?logo=google&logoColor=white" alt="Google Badge"/>
-    </a>
-  </div>
-  
 </div>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-
-  <img src="https://komarev.com/ghpvc/?username=mendrika261&color=red&style=flat" alt="Number of view"/>
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=dracula&hide_border=false#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=tokyonight&hide_border=false#gh-dark-mode-only)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=adluin#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=mendrika261&theme=tokyolight&hide_border=false#gh-light-mode-only)
-
+  <h3> 👋 Hello, World! I build AI/data-driven solutions as well as software applications. </h3>
 </div>
-
-<div>
-  <div align="left">
-    <h3>:gear: Frameworks and  Libraries</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
-  </div>
-  <div align="center">
-    <h3>:computer: Languages and Databases</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Java" alt="Java" width="50" height="50"/>
-    <span> </span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Java" alt="Java" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
-  </div>
-  <div align="right">
-    <h3>:hammer_and_wrench: Tools and OS</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains IDE" alt="Jetbrains IDE" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jypyter Notebook" alt="Jupyter Notebook" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="45" height="45"/>
-    <span> </span>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Trello" alt="Trello" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Trello" alt="Trello" width="50" height="50"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Trello" alt="Trello" width="50" height="50"/>
-  </div>
-</div>
-
-<br>
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mendrika261)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mendrika.dev)
+
+</div>
+
+
+## 🔭 Current Endeavors
+
+- 🌱 Learning
+- 👯 Looking for collaboration or any opportunities
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50" alt="Java"/>
+        <br>Java
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="50" height="50" alt="Spring"/>
+        <br>Spring
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" width="50" height="50" alt="Maven"/>
+        <br>Maven
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+        <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+        <br>Javascript
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+        <br>TypeScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
+        <br>React
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="ViteJs"/>
+        <br>ViteJs
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python"/>
+        <br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikitlearn"/>
+        <br>Scikitlearn
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" alt="Pandas"/>
+        <br>Pandas
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="50" height="50" alt="NumPy"/>
+        <br>NumPy
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL"/>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
+        <br>MySQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" width="50" height="50" alt="Firebase"/>
+        <br>Firebase
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" width="50" height="50" alt="Cloudflare"/>
+        <br>Cloudflare
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+## 📈 GitHub Stats
 
 [![](https://github-profile-trophy.vercel.app/?username=mendrika261&theme=dracula&no-frame=false&no-bg=false&margin-w=4#gh-dark-mode-only)](https://github-profile-trophy.vercel.app/?username=mendrika261&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4#gh-dark-mode-only)
 [![](https://github-profile-trophy.vercel.app/?username=mendrika261&theme=adluin&no-frame=false&no-bg=true&margin-w=4#gh-light-mode-only)](https://github-profile-trophy.vercel.app/?username=mendrika261&theme=tokyolight&no-frame=false&no-bg=false&margin-w=4#gh-light-mode-only)
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mendrika261" alt="Profile Views Counter" />
 </div>
