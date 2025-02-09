@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mendrika261/mendrika261/blob/0295249c0c8a2b47f4cb089603dcd376bae18971/image.png" width="150"/>
-</div>
-
-<div align="center">
-  <h3> 👋 Hello, World! I build AI/data-driven solutions as well as software applications. </h3>
+  <h3> 👋 Hello, World! I build AI/data-driven solutions</h3>
 </div>
 
 <div align="center">
