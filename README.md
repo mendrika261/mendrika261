@@ -65,16 +65,16 @@
         <br>Python
       </td>
       <td align="center" width="100">
+        <img src="https://uploads-ssl.webflow.com/65ff950538088944d66126b3/662ef3209b872e92e41212f6_cookieicon.png" width="50" height="50" alt="LangChain"/>
+        <br>LangChain
+      </td>
+      <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikitlearn"/>
         <br>Scikitlearn
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" alt="Pandas"/>
         <br>Pandas
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="50" height="50" alt="NumPy"/>
-        <br>NumPy
       </td>
     </tr>
     <tr>
